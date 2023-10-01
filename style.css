@@ -1,0 +1,138 @@
+body {
+  background-color: gray;
+}
+
+.first {
+  border: 5px solid red;
+  font-style: italic;
+  font-weight: bold;
+  color: purple;
+  text-shadow: 1px 2px #873688;
+  box-shadow: 5px 5px darkmagenta;
+  width: 500px;
+  border-radius: 25px;
+  background-color: white;
+  text-align: center;
+  margin-left: 430px;
+}
+
+.abc {
+  border: 6px solid green;
+  position: relative;
+  height: 690px;
+  width: 1320px;
+}
+
+.a4 {
+  height: 70px;
+  width: 400px;
+  margin-top: 270px;
+  position: fixed;
+  background-color: #a0f33c;
+  border: 5px solid red;
+  border-radius: 20px;
+  box-shadow: 5px 5px darkmagenta;
+  margin-left: 400px;
+  padding-left: 10px;
+  font-style: italic;
+}
+.a5 {
+  font-style: italic;
+  font-size: larger;
+  font-weight: bolder;
+  color: red;
+  display: inline-block;
+  text-align: center;
+  padding-left: 30px;
+}
+
+.a1 {
+  border: 5px solid red;
+  border-radius: 25px;
+  width: 290px;
+  text-align: center;
+  background-color: white;
+  color: purple;
+  text-shadow: 1px 2px #873688;
+  box-shadow: 7px 7px darkmagenta;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+}
+
+.a2 {
+  border: 5px solid red;
+  border-radius: 25px;
+  width: 290px;
+  text-align: center;
+  background-color: white;
+  color: purple;
+  box-shadow: 7px 7px darkmagenta;
+  position: absolute;
+  top: 0px;
+  right: 50px;
+}
+
+.a123 {
+  border: 5px solid red;
+  border-radius: 25px;
+  width: 280px;
+  height: 260px;
+  background-color: white;
+  color: purple;
+  text-shadow: 1px 2px #873688;
+  box-shadow: 7px 7px darkmagenta;
+  position: absolute;
+  padding-bottom: 50px;
+  bottom: 30px;
+  left: 0px;
+}
+
+.a124 {
+  border: 5px solid red;
+  border-radius: 25px;
+  width: 290px;
+  height: 260px;
+  text-align: center;
+  background-color: white;
+  color: purple;
+  text-shadow: 1px 2px #873688;
+  box-shadow: 7px 7px darkmagenta;
+  position: absolute;
+  padding-bottom: 50px;
+  bottom: 30px;
+  right: 50px;
+}
+
+.xyz1 {
+  height: 560px;
+  width: 700px;
+  background-color: green;
+  border: 5px solid #873688;
+  text-align: center;
+  margin-left: 300px;
+  position: static;
+}
+.xyz2 {
+  display: flex;
+  justify-content: space-around;
+}
+.xyz3 {
+  height: 250px;
+  width: 340px;
+  background-color: darkkhaki;
+  font-style: italic;
+}
+.xyz4 {
+  height: 250px;
+  width: 340px;
+  font-style: italic;
+  background-color: darkkhaki;
+}
+.xyz5 {
+  height: 200px;
+  width: 700px;
+  background-color: darkkhaki;
+  font-style: italic;
+  position: static;
+}
